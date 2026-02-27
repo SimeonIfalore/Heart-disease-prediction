@@ -1,2 +1,2 @@
-# Heart-disease-ZTM
+# Heart-disease-prediction
 The prevalence of heart disease has been rising every day at an extraordinary and exponential rate. The aim of this project is to  diagnose heart disease early through meticulous treatment that will help prevent many cardiovascular diseases. This study examines a statistical model of heart illness that, based on the patient's basic health history, can be used to predict heart disease in medical examiners and cardiac specialists. The Logistic Regression Classifier, K-Nearest Neighbors Classifier, and Random Forest Classifier are three  distinct Machine Learning Classifier Models that were utilized to construct this prediction model.
